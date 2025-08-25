@@ -187,4 +187,6 @@ Pull requests are welcome. Please include a clear description, minimal repro, an
 
 ## License
 
-MIT License. See `LICENSE` when added.
+Copyright (c) 2025 Sagar Shankaran. All rights reserved.
+
+See the [LICENSE](LICENSE) file for terms of use.
